@@ -18,7 +18,7 @@ Inside the Ubuntu Server virtual machine:
 
 Unlike Windows Server with Desktop Experience, Ubuntu Server provides a command-line interface by default, allowing administrators to interact directly with the operating system through the shell.
 
-![Linux Terminal](../Images/Lab01_Linux_Terminal.pngpwd)
+![Linux Terminal](../Images/Lab01_Linux_Terminal.png)
 
 ### Step 2: Understanding Your Location
 
