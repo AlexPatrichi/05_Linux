@@ -32,7 +32,7 @@ Focus Area: Secure Shell (SSH)
 - SSH provides a secure way to remotely access and control systems over a network
 
 <div align="center">
-  <img src="../03_Images/04_ssh-protocol.png" alt="SSH secure connection between client and server" width="400"/>
+  <img src="../Images/04_ssh-protocol.png" alt="SSH secure connection between client and server" width="400"/>
 </div>
 
 ## 🛠️ Practical Skills Developed

@@ -83,7 +83,7 @@ Focus Area: Linux Commands
 - Used `find` and `grep` to locate and analyse specific data
 
 <div align="center">
-  <img src="../03_Images/02_linux_commands.png" alt="Ubuntu Terminal" width="400"/>
+  <img src="../Images/02_linux_commands.png" alt="Ubuntu Terminal" width="400"/>
 </div>
 
 ## 🛠️ Practical Skills Developed
